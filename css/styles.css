@@ -1,0 +1,11 @@
+:root{
+  --font-family-serif: 'Lato', sans-serif;
+  --font-family-sans-serif: 'Playfair Display', serif;;
+  --font-family-handwriting: 'Yesteryear', cursive;
+
+  --white: #ffffff;
+  --red: #b94147;
+  --darkred: #db251b;
+  --grey: #5d544b;
+  --black: #000000;
+}
